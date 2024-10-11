@@ -22,7 +22,7 @@
   - Directly impacted project timelines and business outcomes by facilitating faster development cycles.
   - Improved resource allocation, allowing for focus on high-priority tasks and innovation within the semiconductor design process.
  
-<img width="517" alt="Screenshot 2024-10-10 at 2 57 44 PM" src="https://github.com/user-attachments/assets/6fb2fd9f-84b6-441b-9fd9-33d608832477">
+<img width="1000" alt="Screenshot 2024-10-10 at 2 57 44 PM" src="https://github.com/user-attachments/assets/6fb2fd9f-84b6-441b-9fd9-33d608832477">
 
 
 References: https://aws.amazon.com/blogs/industries/generative-ai-for-semiconductor-design/ 
